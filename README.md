@@ -1,52 +1,88 @@
-<h1 align="center" style="font-size: 3.5em; color: #fff; background-color: #2d2d2d; padding: 20px; border-radius: 10px;">Hi 👋, I'm Dzaki Amri Zaidaan</h1>
-<h3 align="center" style="font-size: 1.8em; color: #ddd;">Currently studying at Diponegoro University in Computer Engineering, specializing in Web Application Development.</h3>
+<!--
+🔥  Fresh, Modern & Interactive GitHub Profile README for Dzaki Amri Zaidaan 🔥
+Tip: View in dark mode for best experience!
+-->
 
-<h3 align="center" style="font-size: 1.5em; color: #bbb;">Connect with me:</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20👋,%20I'm%20Dzaki%20Amri%20Zaidaan!&fontSize=45&fontColor=fff&animation=twinkling" alt="header" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+App+Developer;Computer+Engineering+Student+at+Undip;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Web%20Dev-0d1117?style=for-the-badge&logo=appveyor&logoColor=white&color=1e3c72">
+  <img src="https://img.shields.io/badge/Computer%20Engineering-2a5298?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Undip-FFD700?style=for-the-badge&logo=google-scholar&logoColor=2a5298">
+</p>
+
+---
+
+## 🚀 About Me
+
+```diff
++ Currently pursuing Computer Engineering at Diponegoro University.
++ Passionate about web technologies, modern UI/UX, and building impactful digital solutions.
++ Always exploring new frameworks and tools to stay ahead in the tech world!
+```
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dzakiamriz/" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" height="40" width="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" />
+    <img src="https://img.shields.io/badge/LinkedIn-1e3c72?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dzakiamriz_" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" alt="Instagram" height="40" width="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="mailto:dzakiamriz12@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg" alt="Email" height="40" width="40" style="margin: 0 10px; border-radius: 50%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); transition: transform 0.3s ease-in-out;" />
+    <img src="https://img.shields.io/badge/Gmail-2a5298?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
-<h3 align="center" style="font-size: 1.5em; color: #bbb;">Languages & Tools:</h3>
-<p align="center">
-  <a href="#" target="__blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="60" width="60" style="margin: 0 15px; transition: transform 0.3s ease-in-out;" />
-  </a>
-  <a href="#" target="__blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" height="60" width="60" style="margin: 0 15px; transition: transform 0.3s ease-in-out;" />
-  </a>
-  <a href="#" target="__blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="60" width="60" style="margin: 0 15px; transition: transform 0.3s ease-in-out;" />
-  </a>
-  <a href="#" target="__blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="60" width="60" style="margin: 0 15px; transition: transform 0.3s ease-in-out;" />
-  </a>
-</p>
+---
 
-<div align="center">
-  <br/>
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=Dzakiamriz22&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_title=true&hide_border=true" alt="Top Languages" />
-</div>
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <br/>
-  <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Dzakiamriz22&show_icons=true&locale=en&theme=tokyonight&hide_title=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563d7c?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <br/>
-  <a href="https://github.com/Dzakiamriz22">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Dzakiamriz22&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" style="border-radius: 15px; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Dzakiamriz22&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzakiamriz22&layout=compact&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
 </div>
 
-<div align="center" style="background-color: #1a1a1a; color: #fff; font-weight: bold; padding: 15px; border-radius: 10px; margin-top: 30px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
-  <p>Dzaki Amri Zaidaan | 2024</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dzakiamriz22&theme=tokyonight&hide_border=true&border_radius=13&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🧑‍💻 Quote of the Day
+
+<div align="center">
+  <img src="https://readme-quote.vercel.app/api?theme=tokyonight&border=1e3c72" alt="Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=100&section=footer" alt="footer" />
+  <p>💙 Dzaki Amri Zaidaan | 2024 💙</p>
 </div>
