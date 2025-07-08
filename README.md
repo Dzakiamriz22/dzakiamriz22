@@ -1,12 +1,9 @@
-<!--
-🔥  Fresh, Modern & Interactive GitHub Profile README for Dzaki Amri Zaidaan 🔥
-Tip: View in dark mode for best experience!
--->
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=220&section=header&text=Hi%20👋,%20I'm%20Dzaki%20Amri%20Zaidaan!&fontSize=45&fontColor=fff&animation=twinkling" alt="header" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+App+Developer;Computer+Engineering+Student+at+Undip;Always+Learning+and+Building+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Web+App+Developer+🚀;Computer+Engineering+Student+at+Undip+💻;Open+Source+%26+Tech+Enthusiast+🌟;Always+Learning+and+Building!+🔥" alt="Typing SVG" />
 </div>
 
 <br/>
