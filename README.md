@@ -122,39 +122,6 @@ daily_routine:
 
 ---
 
-## 🎯 My 2025 Goals
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      
-### 💪 Technical Goals
-- [ ] Complete 2-3 full-stack projects
-- [ ] Contribute to 2 open source projects
-- [ ] Master Laravel fundamentals
-- [ ] Get comfortable with React
-- [ ] Build a proper portfolio website
-- [ ] Learn Git beyond basic commands
-- [ ] Write cleaner, more maintainable code
-
-    </td>
-    <td width="50%">
-      
-### 📚 Learning Goals
-- [ ] Follow 1 online course consistently
-- [ ] Read technical documentation regularly
-- [ ] Practice coding challenges weekly
-- [ ] Build at least 1 project per month
-- [ ] Learn from my mistakes (and there will be many!)
-- [ ] Understand design patterns
-- [ ] Improve my debugging skills
-
-    </td>
-  </tr>
-</table>
-
----
-
 ## 💭 My Development Philosophy
 
 > **"I don't write perfect code. I write code that works, then I make it better."**
@@ -228,7 +195,7 @@ console.log("Let's build something cool! 🚀");
 
 I'm open to:
 - 🎓 **Learning together** - Fellow students or beginners
-- 💻 **Small projects** - Let's build something simple but cool
+- 💻 **Projects** - Let's build something cool
 - 🐛 **Code reviews** - I need feedback to grow!
 - ☕ **Mentorship** - I'd love to learn from experienced developers
 - 🌟 **Open source** - Baby steps into the open source world
