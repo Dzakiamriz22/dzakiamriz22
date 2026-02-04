@@ -90,7 +90,7 @@ daily_routine:
 
 ### ✅ What I'm Comfortable With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,js,tailwrind,php,mysql,git" alt="Comfortable Skills"/>
+  <img src="https://skillicons.dev/icons?i=laravel,js,tailwind,php,mysql,git" alt="Comfortable Skills"/>
 </p>
 
 ### 📚 Currently Learning & Improving
