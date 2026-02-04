@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Dzaki%20Amri%20Zaidaan&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Learning,%20Building,%20Growing&descSize=18&descAlignY=58" alt="Header Banner" />
-</div>
-
-<br/>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -95,36 +90,27 @@ daily_routine:
 
 ### ✅ What I'm Comfortable With
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git" alt="Comfortable Skills"/>
+  <img src="https://skillicons.dev/icons?i=laravel,js,tailwrind,php,mysql,git" alt="Comfortable Skills"/>
 </p>
 
 ### 📚 Currently Learning & Improving
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=laravel,react,bootstrap,tailwind,nodejs,python" alt="Learning Stack"/>
+  <img src="https://skillicons.dev/icons?i=react,python,nodejs" alt="Learning Stack"/>
 </p>
 
 ### 🛠️ Tools I Use Daily
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,github,postman,figma" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,postman" alt="Tools"/>
 </p>
 
 ### 🎯 On My Learning Roadmap
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,docker,postgresql,aws" alt="Future Learning"/>
+  <img src="https://skillicons.dev/icons?i=nextjs,typescript,mongodb,docker" alt="Future Learning"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats (The Real Numbers)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dzakiamriz22&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=2A5298&icon_color=1e3c72&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dzakiamriz22&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=2A5298&langs_count=6&card_width=320" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dzakiamriz22&theme=react&hide_border=true&background=0D1117&ring=2A5298&fire=1e3c72&currStreakLabel=2A5298&sideNums=2A5298&currStreakNum=FFFFFF&dates=8B949E&sideLabels=8B949E" alt="GitHub Streak"/>
-</div>
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dzakiamriz22&theme=react-dark&hide_border=true&bg_color=0D1117&color=2A5298&line=1e3c72&point=FFFFFF" alt="Contribution Graph"/>
@@ -136,19 +122,7 @@ daily_routine:
 
 ---
 
-## 🏆 Achievements (Small Wins Matter!)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dzakiamriz22&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
-<p align="center">
-  <em>Every trophy represents a small victory in my learning journey! 🎉</em>
-</p>
-
----
-
-## 🎯 My 2025 Goals (Realistic Edition)
+## 🎯 My 2025 Goals
 
 <table align="center">
   <tr>
@@ -342,7 +316,6 @@ or just chat about tech - I'm all ears! 👂
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" alt="Footer Wave"/>
   
   <br/>
   
@@ -358,11 +331,7 @@ or just chat about tech - I'm all ears! 👂
   
   **If you're a beginner like me, let's connect and grow together!** 🌱  
   **If you're experienced, I'd love to learn from you!** 🎓
-  
-  <br/>
-  
-  ![Visitor Count](https://profile-counter.glitch.me/Dzakiamriz22/count.svg)
-  
+      
   <br/>
   
   **© 2025 Dzaki Amri Zaidaan**  
