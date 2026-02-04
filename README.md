@@ -53,37 +53,6 @@ const profile = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzakaamriz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakaamriz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=dzakaamriz&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakaamriz/dzakaamriz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakaamriz/dzakaamriz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dzakaamriz/dzakaamriz/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## 🎯 Current Projects
-
-| Project | Status | Tech Stack |
-|---------|--------|------------|
-| 📱 Personal Portfolio | 🔨 In Progress | React, Tailwind CSS |
-| 🛒 E-Commerce Platform | 📚 Learning | Laravel, MySQL, Bootstrap |
-| 🎨 UI Component Library | 🌱 Starting | React, Tailwind |
-| 📝 Tech Blog | 💡 Planning | Next.js, Markdown |
-
----
-
 ## 💼 Open for Opportunities
 
 Currently accepting freelance projects and collaborations!
