@@ -9,29 +9,9 @@ Computer Engineering Student at Diponegoro University, Semarang 🇮🇩
 
 ## About
 
-Full-stack web development enthusiast focused on building clean, maintainable applications. Currently exploring modern web technologies and best practices.
+Full-stack web developer focused on building clean, maintainable applications.
 
-```javascript
-const profile = {
-  education: "Computer Engineering @ Diponegoro University",
-  focus: "Full-Stack Web Development",
-  learning: ["Laravel", "React", "System Design"]
-};
-```
-
----
-
-## Tech Stack
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Tech Stack:** HTML • CSS • JavaScript • PHP • Laravel • React • MySQL • Tailwind CSS
 
 ---
 
@@ -42,8 +22,6 @@ const profile = {
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzakaamriz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakaamriz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
-  
-  ![GitHub Streak](https://streak-stats.demolab.com?user=dzakaamriz&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd)
 
 </div>
 
@@ -57,13 +35,11 @@ const profile = {
 
 ## Open for Projects
 
-Currently accepting freelance work and project collaborations.
+Currently accepting freelance work and collaborations.
 
-**Services:**
-- Web Development (Frontend & Backend)
-- Laravel Applications
-- React Components & Interfaces
-- Responsive Design Implementation
+**Services:** Web Development • Laravel Applications • React Components • Responsive Design
+
+---
 
 ## Connect
 
