@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzakiamriz/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakiamriz12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blueviolet?style=for-the-badge)](https://github.com/dzakaamriz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge)](https://dzakiamriz.vercel.app)
 
 ---
 
