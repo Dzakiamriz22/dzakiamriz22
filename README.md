@@ -304,11 +304,6 @@ or just chat about tech - I'm all ears! 👂
 
 ---
 
-## 📊 This Week's Coding Stats
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 <p align="center">
   <em>Consistency is key, but life happens! 📅</em>
 </p>
