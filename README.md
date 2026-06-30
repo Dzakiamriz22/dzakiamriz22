@@ -1,124 +1,38 @@
-# 👋 Hi, I'm Dzaki
+# Dzaki Amri Zaidaan
 
-**Computer Engineering Student** at Diponegoro University, Semarang, Indonesia 🇮🇩
+Fullstack Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzakiamriz/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakiamriz12@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge)](https://dzakiamriz.vercel.app)
+Building practical web products with clean architecture and reliable execution. Currently working at PT EbyB Global Marketplace. Open to freelance and collaboration opportunities in Indonesia.
 
----
+[Portfolio](https://www.buildbyzaki.space/) • [LinkedIn](https://www.linkedin.com/in/dzakiamriz/) • [Email](mailto:dzakiamriz12@gmail.com) • [GitHub](https://github.com/dzakiamriz22)
 
-## 🚀 About Me
-
-I'm a passionate web developer currently mastering full-stack development. I believe in writing code that works first, then making it better through continuous learning and improvement.
-
-```javascript
-const profile = {
-  name: "Dzaki Amri Zaidaan",
-  location: "Semarang, Indonesia 🇮🇩",
-  education: "Computer Engineering @ Diponegoro University",
-  role: "Full-Stack Web Developer",
-  currentFocus: "Building clean, maintainable applications",
-  learning: ["Laravel", "React", "System Design"],
-  interests: ["Web Development", "Open Source", "Problem Solving"]
-};
-```
-
----
-
-## 💻 Tech Stack
-
-### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-
-### Styling & UI
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-### Currently Learning
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
----
-
-## 💼 Open for Opportunities
-
-Currently accepting freelance projects and collaborations!
-
-**Services I Offer:**
-- 🌐 Full-Stack Web Development
-- ⚡ Laravel Application Development
-- ⚛️ React Components & Interfaces
-- 📱 Responsive Web Design
-- 🎨 UI/UX Implementation
-
-**Looking to Collaborate On:**
-- Open Source Projects
-- Learning Projects with Fellow Developers
-- Small to Medium Web Applications
-- Code Reviews & Knowledge Sharing
-
----
-
-## 🌱 My Development Philosophy
-
-> *"Write code that works. Refactor to make it better. Document to make it maintainable."*
-
-**My Approach:**
-- 📚 Continuous learning and improvement
-- 🔍 Problem-solving through research and experimentation
-- 🤝 Collaboration and knowledge sharing
-- 🐛 Learning from mistakes and debugging
-- 💡 Building projects to solidify understanding
-
----
-
-## 📫 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities!
-
-**Reach out for:**
-- 💻 Project collaborations
-- 🎓 Knowledge sharing and learning together
-- ☕ Tech discussions
-- 🤝 Mentorship (both ways!)
-- 🌟 Open source contributions
-
-[![Email](https://img.shields.io/badge/📧_dzakiamriz12@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakiamriz12@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzakiamriz/)
-
----
-
-## ⚡ Fun Facts
-
-- ☕ Powered by coffee and curiosity
-- 🌙 Most productive during late-night coding sessions
-- 🎵 Code better with lo-fi beats
-- 📖 Documentation enthusiast
-- 🐛 Debugging is my cardio
-
----
+## Stack
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakiamriz22&layout=compact&theme=tokyonight)
 
-![Profile Views](https://komarev.com/ghpvc/?username=dzakaamriz&color=blueviolet&style=flat)
-
-**Building the future, one commit at a time** 🚀
-
-*© 2026 Dzaki Amri Zaidaan*
+![GitHub Streak](https://streak-stats.demolab.com?user=dzakiamriz22&theme=tokyonight&hide_border=true)
 
 </div>
+
+Core stack:
+- PHP / Laravel
+- JavaScript / TypeScript
+- React / Next.js
+- Node.js
+- MySQL
+- Python / Go
+
+## Selected Projects
+
+- [Robusta Kendal](https://github.com/dzakiamriz22/robustakendal) — backend and admin workflow development
+- [Arsip DPPPA Semarang](https://github.com/dzakiamriz22/arsip-dpppa) — structured document archive system
+- [PAUD_UNDIP](https://github.com/dzakiamriz22/PAUD_UNDIP) — practical web application
+- [Indonesian TTS Microservice](https://github.com/dzakiamriz22/Indonesian-TTS-Microservice) — speech synthesis service
+- [EatWise](https://github.com/dzakiamriz22/EatWise) — mobile app concept for food-related recommendations
+- [TheAce 2024](https://github.com/dzakiamriz22/TheAce-2024) — event platform contribution
+
+## Contact
+
+Available for freelance, product builds, and technical collaboration.
