@@ -1,99 +1,107 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=700&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=Hi+there%2C+I'm+Zaki+%F0%9F%91%8B;Backend-focused+Software+Engineer;Building+practical+web+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=600&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=440&height=70&lines=Hi,+I'm+Zaki+%F0%9F%91%8B;Backend-focused+Engineer;Building+practical+web+apps" alt="Typing SVG" />
+
+**Software Engineer** — backend-first, product-minded. Membangun sistem yang *maintainable*, API yang jelas, dan fitur yang benar-benar dipakai.
+
+[![LinkedIn](https://img.shields.io/badge/in/dzakiamriz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dzakiamriz/)
+[![Portfolio](https://img.shields.io/badge/buildbyzaki.space-38BDF8?style=for-the-badge&logo=react&logoColor=white)](https://buildbyzaki.space/)
+[![Email](https://img.shields.io/badge/dzakiamriz12%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dzakiamriz12@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com%2Fdzakiamriz22-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dzakiamriz22)
+
+<img src="https://komarev.com/ghpvc/?username=dzakiamriz22&style=for-the-badge&color=38BDF8" alt="profile views" />
 
 </div>
 
 ---
 
-## 👋 About Me
+## 🔭 Now
 
-Backend-focused Software Engineer — strong in backend development and product implementation.
-
-I focus on building **maintainable systems, clear API flows**, and practical features that solve real user needs.
-
-- 🔭 Currently working at **PT EbyB Global Marketplace** (Fullstack Developer)
-- 🌱 Learning: Go, distributed systems, clean architecture
-- 👯 Open to: freelance & collaboration
-- 📫 Reach me: **dzakiamriz12@gmail.com**
-- ⚡ Building in my free time
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/dzakiamriz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a)](https://buildbyzaki.space/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:dzakiamriz12@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0f172a)](https://github.com/dzakiamriz22)
+- Currently **Fullstack Developer @ PT EbyB Global Marketplace** — web apps, REST APIs, backend services.
+- Learning: **Go**, distributed systems, clean architecture.
 
 ---
 
-## 🧰 What I Work With
+## 🧰 I work with
+
+<div align="center">
 
 **Languages**
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Backend & Frontend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=swagger&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-## 📌 Pinned Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [PAUD_UNDIP](https://github.com/dzakiamriz22/PAUD_UNDIP) | School management: invoicing, financial dashboard, role-based access | Laravel |
-| [Arsip DPPPA Semarang](https://github.com/dzakiamriz22/arsip-dpppa) | Structured document archive system | PHP |
-| [Indonesian TTS Microservice](https://github.com/dzakiamriz22/Indonesian-TTS-Microservice) | Indonesian speech synthesis with Zero-Shot Voice Cloning | Python, FastAPI |
-| [EatWise](https://github.com/dzakiamriz22/EatWise) | Food recommendation mobile app concept | Kotlin |
-| [dzakiamriz](https://github.com/dzakiamriz22/dzakiamriz) | Personal portfolio website | Next.js, Tailwind |
+**Tooling**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+</div>
 
 ---
 
-## 🌐 Portfolio & Services
+## 🚀 Featured
 
-I build practical, usable web products end to end. See my work at **[buildbyzaki.space](https://buildbyzaki.space)**.
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| [**PAUD_UNDIP**](https://github.com/dzakiamriz22/PAUD_UNDIP) | School management — invoicing, financial dashboard, role-based access | Laravel |
+| [**Indonesian TTS Microservice**](https://github.com/dzakiamriz22/Indonesian-TTS-Microservice) | Indonesian speech synthesis + Zero-Shot Voice Cloning API | Python, FastAPI |
+| [**Arsip DPPPA Semarang**](https://github.com/dzakiamriz22/arsip-dpppa) | Structured document archive system | PHP |
+| [**EatWise**](https://github.com/dzakiamriz22/EatWise) | Food recommendation mobile app (concept) | Kotlin |
+| [**dzakiamriz**](https://github.com/dzakiamriz22/dzakiamriz) | Personal portfolio site | Next.js, Tailwind |
 
-| Service | Description |
-|---------|-------------|
+More on [**GitHub**](https://github.com/dzakiamriz22).
+
+---
+
+## 🛠 Services
+
+I build web products end to end — available for freelance & collaboration.
+
+| Service | Scope |
+|---------|-------|
 | **Web App Development** | Full-stack business apps — Laravel, Next.js, Node.js, React |
-| **REST API & Backend** | API design, database structuring, scalable backend services |
-| **Website Landing / Company Profile** | Fast, responsive, SEO-friendly web presence |
-| **System Automation** | Turn manual workflows into structured digital processes |
+| **REST API & Backend** | API design, DB structuring, scalable services |
+| **Landing / Company Profile** | Fast, responsive, SEO-friendly web presence |
+| **Mobile (Kotlin)** | Android app features, flows, UI, API integration |
+| **Custom Web / Automation** | From manual workflow → structured digital process |
 
-Need a product built? **Contact me** for freelance or collaboration — includes Mobile (Kotlin) & maintenance/optimization too.
+Need something product-built? **Just reach out** — [LinkedIn](https://www.linkedin.com/in/dzakiamriz/) · [Portfolio](https://buildbyzaki.space/).
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution
 
-![Snake animation](https://raw.githubusercontent.com/dzakiamriz22/dzakiamriz22/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake](https://raw.githubusercontent.com/dzakiamriz22/dzakiamriz22/output/github-contribution-grid-snake.svg)
+
+### 3D contribution
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakiamriz22/github-readme/main/output/contribs-dark.svg" />
+  <img alt="Isometric contribution chart" src="https://raw.githubusercontent.com/dzakiamriz22/github-readme/main/output/contribs-light.svg" />
+</picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-*Made with 💙 in Indonesia — open for freelance, product builds & collaboration.*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f172a)](https://www.linkedin.com/in/dzakiamriz/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a)](https://buildbyzaki.space/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f172a)](mailto:dzakiamriz12@gmail.com)
+*Made in Indonesia 🇮🇩 — [say hi](mailto:dzakiamriz12@gmail.com)*
 
 </div>
