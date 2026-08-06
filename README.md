@@ -87,8 +87,6 @@ Need something product-built? **Just reach out** — [LinkedIn](https://www.link
 
 <div align="center">
 
-![Snake](https://raw.githubusercontent.com/dzakiamriz22/dzakiamriz22/output/github-contribution-grid-snake.svg)
-
 ### 3D contribution
 
 <picture>
