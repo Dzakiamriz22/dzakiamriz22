@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-Backend-focused Software Engineer from **Pemalang, Indonesia** — strong in backend development and product implementation.
+Backend-focused Software Engineer — strong in backend development and product implementation.
 
 I focus on building **maintainable systems, clear API flows**, and practical features that solve real user needs.
 
