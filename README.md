@@ -14,8 +14,7 @@
 
 ### About
 
-I build web applications and backend services at **Ebyb Global Marketplace** — a cross-border wholesale platform connecting Chinese manufacturers with global buyers.
-
+I build web applications and backend services at **Ebyb Global Marketplace**.
 My day-to-day is **Laravel** and **Node.js**; my side interests are distributed systems and **Go**. I care about code that reads clean, APIs that behave predictably, and shipping things that actually work.
 
 </td>
